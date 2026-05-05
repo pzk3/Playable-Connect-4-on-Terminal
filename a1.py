@@ -2,9 +2,6 @@
 from typing import Optional
 from a1_support import *
 
-# Name: Mihir Nepal
-# Student Number: 48846152
-# ----------------
 
 # Write your classes and functions here
 
